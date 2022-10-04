@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <link href="http://fonts.cdnfonts.com/css/open-sans" rel="stylesheet" />
+    <title>English Cards</title>
+  </head>
+  <body>
+    <main>
+      <p class="title"></p>
+      <hr />
+      <p class="count-ques"></p>
+      <p class="count-know"></p>
+      <p class="count-unknown"></p>
+
+      <div class="wrap">
+        <div class="card">
+          <div class="front"><span id="front-text">Front</span></div>
+          <div class="back"><span id="back-text">Back</span></div>
+        </div>
+      </div>
+      <button class="btn" id="btn-next">Дальше</button>
+      <button class="btn know" id="btn-know">Знаю</button>
+      <button class="btn restart hide" id="btn-restart">Знаю</button>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
