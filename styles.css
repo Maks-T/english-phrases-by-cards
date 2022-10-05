@@ -5,6 +5,7 @@
 html {
   font-family: 'Open Sans', sans-serif;
 }
+
 main {
   display: flex;
   flex-direction: column;
@@ -23,12 +24,15 @@ main {
   justify-content: center;
   align-items: center;
 }
+
 .card {
   width: calc(12rem + 12vw);
   min-height: calc(5rem + 5vh);
   position: relative;
+ -webkit-perspective: 1000px;
   perspective: 1000px;
 }
+
 .front,
 .back {
   position: absolute;
@@ -58,12 +62,15 @@ main {
   background-color: brown;
   color: white;
   font-weight: 600;
+  -webkit-transform: rotateY(180deg);
   transform: rotateY(180deg);
 }
 .rotated .front {
+  -webkit-transform: rotateY(180deg);
   transform: rotateY(180deg);
 }
 .rotated .back {
+  -webkit-transform: rotateY(360deg);
   transform: rotateY(360deg);
 }
 
