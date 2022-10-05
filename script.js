@@ -6,6 +6,11 @@ const btnKnow = document.querySelector('#btn-know');
 const btnRestart = document.querySelector('#btn-restart');
 const frontTextElem = document.querySelector('#front-text');
 const backTextElem = document.querySelector('#back-text');
+const frontCardElem = document.querySelector('#front-card');
+const backCardElem = document.querySelector('#back-card');
+if (isIOS()) {
+  backCardElem.classList.toggle('hide');
+}
 const countQues = document.querySelector('.count-ques');
 const countKnow = document.querySelector('.count-know');
 const countUnknown = document.querySelector('.count-unknown');
@@ -33,6 +38,13 @@ window.onload = async () => {
 const clickCardHandle = (card) => {
   return (e) => {
     card.classList.toggle('rotated');
+    if (isIOS()) {
+      console.log('=>');
+      setTimeout(() => {
+        frontCardElem.classList.toggle('hide');
+        backCardElem.classList.toggle('hide');
+      }, 1000);
+    }
   };
 };
 
@@ -63,6 +75,7 @@ const clickBtnNextHandle = () => {
     curIndex = 0;
   }
   curIndex++;
+
   loadNextQuestion(questions);
 };
 
@@ -87,3 +100,22 @@ const loadData = async (path) => {
 
   return data;
 };
+
+/*function isIOS() {
+  return (
+    [
+      'iPad Simulator',
+      'iPhone Simulator',
+      'iPod Simulator',
+      'iPad',
+      'iPhone',
+      'iPod',
+    ].includes(navigator.platform) ||
+    // iPad on iOS 13 detection
+    (navigator.userAgent.includes('Mac') && 'ontouchend' in document)
+  );
+}*/
+
+function isIOS() {
+  return ['iPad', 'iPhone', 'iPod'].indexOf(navigator.platform) >= 0;
+}
