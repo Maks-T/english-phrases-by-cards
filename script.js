@@ -18,7 +18,6 @@ window.onload = async () => {
   card.addEventListener('click', clickCardHandle(card));
 
   const data = await loadData('./data/unit1.json');
-  console.log(data);
 
   title.innerHTML = `Topic: ${data.name}`;
   countQ = data.phrases.length;
@@ -52,8 +51,7 @@ const loadNextQuestion = (questions) => {
   if (curIndex >= questions.length) {
     curIndex = 0;
   }
-  console.log(curIndex);
-  console.log('loadNextQuestion' + Math.random());
+
   frontTextElem.innerHTML = questions[curIndex].ru;
   backTextElem.innerHTML = questions[curIndex].en;
 
@@ -74,8 +72,6 @@ const clickBtnKnowHandle = () => {
   }
   questions.splice(curIndex, 1);
   loadNextQuestion(questions);
-
-  console.log(questions);
 };
 
 const clickBtnRestartHandle = () => {
