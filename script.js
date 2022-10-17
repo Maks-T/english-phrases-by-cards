@@ -22,7 +22,10 @@ let questions = [];
 window.onload = async () => {
   card.addEventListener('click', clickCardHandle(card));
 
-  const data = await loadData('./data/unit1.json');
+  const urlParams = new URLSearchParams(window.location.search);
+  const id = urlParams.get('id');
+
+  const data = await loadData(`./data/${id}.json`);
 
   title.innerHTML = `Topic: ${data.name}`;
   countQ = data.phrases.length;
@@ -100,21 +103,6 @@ const loadData = async (path) => {
 
   return data;
 };
-
-/*function isIOS() {
-  return (
-    [
-      'iPad Simulator',
-      'iPhone Simulator',
-      'iPod Simulator',
-      'iPad',
-      'iPhone',
-      'iPod',
-    ].includes(navigator.platform) ||
-    // iPad on iOS 13 detection
-    (navigator.userAgent.includes('Mac') && 'ontouchend' in document)
-  );
-}*/
 
 function isIOS() {
   return ['iPad', 'iPhone', 'iPod'].indexOf(navigator.platform) >= 0;
