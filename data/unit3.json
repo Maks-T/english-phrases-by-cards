@@ -2,41 +2,38 @@
   "name": "Past Simple 26-50 Verbs",
   "phrases": [
     {
-      "en": "Не advised [zd] me to do it",
-      "ru": "Он посоветовал мне сделать это"
+      "en": "I stopped [t] wasting my time",
+      "ru": "Я перестал тратить свое время впустую"
+    },
+    { "en": "They stopped [t] talking", "ru": "Они перестали разговаривать" },
+    {
+      "en": "It created new problems [z]",
+      "ru": "Это создавало новые проблемы"
     },
     {
-      "en": "She advised [zd] me to read this",
-      "ru": "Она посоветовала мне прочитать эту статью"
+      "en": "It created [id] new difficulties [iz]",
+      "ru": "Это создавало новые трудности"
     },
     {
-      "en": "I really wanted [id] to visit this place",
-      "ru": "Я очень хотел посетить это место"
+      "en": "Не opened [d] the door and then closed [zd] it",
+      "ru": "Он открыл дверь и затем закрыл ее"
     },
     {
-      "en": "I wanted [id] to go on holiday",
-      "ru": "Я хотел поехать в отпуск"
+      "en": "I opened [d] the box and I was very surprised [zd]",
+      "ru": "Я открыл коробку и я был очень удивлен"
     },
     {
-      "en": "I looked [t] at it one more time",
-      "ru": "Я посмотрел на это еще раз"
-    },
-    { "en": "I looked [t] at the screen", "ru": "Я посмотрел на экран" },
-    {
-      "en": "I used [zd] this service from time to time",
-      "ru": "Я пользовался этой услугой время от времени"
+      "en": "I often walked [t] in the park when I had free time",
+      "ru": "Я часто гулял в парке, когда у меня было свободное время"
     },
     {
-      "en": "I used [zd] that service from time to time",
-      "ru": "Я пользовался той услугой время от времени"
+      "en": "I often walked [t] in the park when I had more free time",
+      "ru": "Я часто гулял в парке, когда у меня было больше свободного времени"
     },
+    { "en": "I remembered [dl everything", "ru": "Я все вспомнил" },
     {
-      "en": "I communicated [id] with people from different countries [iz]",
-      "ru": "Я общался с людьми из разных стран"
-    },
-    {
-      "en": "I communicated [id] with foreigners [z]",
-      "ru": "Я общался с иностранцами"
+      "en": "We really loved [d] spending time together",
+      "ru": "Мы очень любили проводить время вместе"
     },
     {
       "en": "I really loved [d] spending time there",
