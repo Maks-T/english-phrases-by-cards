@@ -68,7 +68,9 @@ const loadNextQuestion = (questions) => {
   }
 
   frontTextElem.innerHTML = questions[curIndex].ru;
-  backTextElem.innerHTML = questions[curIndex].en;
+  backTextElem.innerHTML = questions[curIndex].trn
+    ? questions[curIndex].en + '<br>' + questions[curIndex].trn
+    : questions[curIndex].en;
 
   card.classList.remove('rotated');
 };
