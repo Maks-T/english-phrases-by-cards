@@ -51,7 +51,7 @@ const clickCardHandle = (card) => {
   };
 };
 
-const loadNextQuestion = (questions) => {
+const loadNextQuestion = async (questions) => {
   countKnow.innerHTML = `Изучено: ${countQ - questions.length}`;
   countUnknown.innerHTML = `Осталось изучить: ${questions.length}`;
 
@@ -69,8 +69,10 @@ const loadNextQuestion = (questions) => {
 
   frontTextElem.innerHTML = questions[curIndex].ru;
   backTextElem.innerHTML = questions[curIndex].trn
-    ? questions[curIndex].en + '<br>' + questions[curIndex].trn
-    : questions[curIndex].en;
+    ? (await selectLearnedWords(questions[curIndex].en)) +
+      '<br>' +
+      questions[curIndex].trn
+    : await selectLearnedWords(questions[curIndex].en);
 
   card.classList.remove('rotated');
 };
@@ -104,6 +106,17 @@ const loadData = async (path) => {
   data.phrases.sort(() => Math.random() - 0.5);
 
   return data;
+};
+
+const selectLearnedWords = async (phrase) => {
+  const response = await fetch(`./data/db_words.json`);
+  const dataWords = await response.json();
+
+  dataWords.forEach((word) => {
+    phrase = phrase.replaceAll(word, `<b>${word}</b>`);
+  });
+
+  return phrase;
 };
 
 function isIOS() {

@@ -29,7 +29,7 @@ main {
   width: calc(12rem + 12vw);
   min-height: calc(5rem + 5vh);
   position: relative;
- -webkit-perspective: 1000px;
+  -webkit-perspective: 1000px;
   perspective: 1000px;
 }
 
@@ -132,4 +132,10 @@ main {
 
 .hide {
   display: none;
+}
+
+b {
+  font-weight: bold;
+  color: #ffec62;
+  letter-spacing: 0.05rem;
 }
