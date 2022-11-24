@@ -1,0 +1,107 @@
+{
+  "name": "Past Simple Irregular verbs part 2",
+  "phrases": [
+    { "en": "I lost it somewhere", "ru": "Я потерял это где-то" },
+    { "en": "He lost the keys [z] somewhere", "ru": "Он потерял ключи где-то" },
+    {
+      "en": "I thought that it was necessary",
+      "ru": "Я думал, что это было необходимо"
+    },
+    {
+      "en": "I went to that place when I had free time",
+      "ru": "Я ходил в то место, когда у меня было свободное время"
+    },
+    { "en": "I read [red] all the book", "ru": "Я прочитал всю книгу" },
+    { "en": "I read [red] all the article", "ru": "Я прочитал всю статью" },
+    {
+      "en": "I felt really optimistic",
+      "ru": "Я чувствовал себя действительно оптимистично"
+    },
+    {
+      "en": "You did it perfectly",
+      "ru": "Ты сделал это прекрасно (превосходно)"
+    },
+    {
+      "en": "She sang a very beautiful song",
+      "ru": "Она спела очень красивую песню"
+    },
+    { "en": "He made a small mistake", "ru": "Он сделал маленькую ошибку" },
+    {
+      "en": "I paid for it by credit card",
+      "ru": "Я заплатил за это кредитной картой"
+    },
+    {
+      "en": "This car broke down suddenly to our surprise [z]",
+      "ru": "Эта машина сломалась вдруг, к нашему удивлению"
+    },
+    {
+      "en": "Не said it very confidently",
+      "ru": "Он сказал это очень уверенно"
+    },
+    {
+      "en": "She said that it was possible",
+      "ru": "Она сказала, что это возможно"
+    },
+    {
+      "en": "Не became a very popular musician",
+      "ru": "Он стал очень популярным музыкантом"
+    },
+    { "en": "It became a real problem", "ru": "Это стало реальной проблемой" },
+    { "en": "Не hid [d] it somewhere", "ru": "Он спрятал это где-то" },
+    {
+      "en": "Не came home later than usual",
+      "ru": "Он пришел домой позже, чем обычно"
+    },
+    { "en": "Не fed the dog [g]", "ru": "Он покормил собаку" },
+    { "en": "Не fed the cat", "ru": "Она покормила кошку" },
+    {
+      "en": "Не taught us English and we felt real progress",
+      "ru": "Он преподавал нам английский, и мы чувствовали реальный прогресс"
+    },
+    {
+      "en": "I think that I chose [z] the right words [z] to explain it",
+      "ru": "Я думаю, что я выбрал правильные слова, чтобы объяснить это"
+    },
+    { "en": "I put it somewhere", "ru": "Я положил это где-то" },
+    { "en": "He flew to London", "ru": "Он полетел в Лондон" },
+    { "en": "I grew up in a small town", "ru": "Я вырос в маленьком городке" },
+    {
+      "en": "Не grew up in the UK",
+      "ru": "Он вырос в Великобритании (Соединенном Королевстве)"
+    },
+    {
+      "en": "I was really happy to see you",
+      "ru": "Я был действительно рад видеть тебя"
+    },
+    {
+      "en": "I'm afraid you misunderstood it",
+      "ru": "Я боюсь, ты неправильно понял это"
+    },
+    {
+      "en": "Не kept this money in a secret place",
+      "ru": "Он хранил эти деньги в секретном месте"
+    },
+    { "en": "He kept his [z] promise", "ru": "Он сдержал свое обещание" },
+    {
+      "en": "I saw that it was impossible",
+      "ru": "Я видел, что это было невозможно"
+    },
+    {
+      "en": "I woke up earlier than usual",
+      "ru": "Я проснулся раньше, чем обычно"
+    },
+    {
+      "en": "I woke up later than usual",
+      "ru": "Я проснулся позже, чем обычно"
+    },
+    { "en": "He slept too little", "ru": "Он поспал слишком мало" },
+    { "en": "He spent lots of money", "ru": "Он потратил много денег" },
+    {
+      "en": "I wrote a very long message",
+      "ru": "Я написал очень длинное сообщение"
+    },
+    { "en": "I heard it on the radio", "ru": "Я услышал это по радио" },
+    { "en": "We ate about an hour ago", "ru": "Мы поели около часа назад" },
+    { "en": "I knew everything in the beginning", "ru": "Я знал все в начале" }
+  ]
+}
