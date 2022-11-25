@@ -1,0 +1,85 @@
+{
+  "name": "Past Simple Was Were Did",
+  "phrases": [
+    {
+      "en": "It didn't interest me at all",
+      "ru": "Это вовсе не интересовало меня"
+    },
+    {
+      "en": "It wasn't interesting for me at all",
+      "ru": "Это вовсе не было интересно мне"
+    },
+    { "en": "I wasn't tired yesterday", "ru": "Я не устал вчера" },
+    { "en": "I didn't feel tired", "ru": "Я не чувствовал себя уставшим" },
+    { "en": "He wasn't happy", "ru": "Он не был счастлив" },
+    { "en": "Не didn't feel happy", "ru": "Он не чувствовал себя счастливым" },
+    { "en": "It didn't seem useless", "ru": "Это не казалось бесполезным" },
+    { "en": "It wasn't useless", "ru": "Это не было бесполезно" },
+    { "en": "It wasn't the best decision", "ru": "Это было не лучшее решение" },
+    {
+      "en": "It wasn't the best choice in that situation",
+      "ru": "Это был не лучший выбор в той ситуации"
+    },
+    {
+      "en": "It didn't seem the best decision",
+      "ru": "Это не казалось лучшим решением"
+    },
+    {
+      "en": "It didn't seem the best choice in that situation",
+      "ru": "Это не казалось лучшим выбором в той ситуации"
+    },
+    { "en": "They didn't live together", "ru": "Они не жили вместе" },
+    { "en": "They weren't together", "ru": "Они не были вместе" },
+    {
+      "en": "This offer wasn't so attractive for me",
+      "ru": "Это предложение не было таким привлекательным для меня"
+    },
+    {
+      "en": "That offer didn't look really attractive",
+      "ru": "To предложение не выглядело действительно привлекательным"
+    },
+    { "en": "This money wasn't enough", "ru": "Этих денег не было достаточно" },
+    {
+      "en": "Не didn't have this sum of money",
+      "ru": "У него не было этой суммы денег"
+    },
+    { "en": "They weren't hospitable", "ru": "Они не были гостеприимными" },
+    {
+      "en": "It didn't attract my attention",
+      "ru": "Это не привлекало мое внимание"
+    },
+    {
+      "en": "Such things [z] didn't attract my attention",
+      "ru": "Такие вещи не привлекали мое внимание"
+    },
+    {
+      "en": "They didn't seem so hospitable",
+      "ru": "Они не казались такими гостеприимными"
+    },
+    {
+      "en": "It wasn't so attractive for me",
+      "ru": "Это не было так привлекательно для меня"
+    },
+    {
+      "en": "Their offer wasn't really attractive",
+      "ru": "Их предложение не было действительно привлекательным"
+    },
+    {
+      "en": "Such things [z] weren't attractive for me",
+      "ru": "Такие вещи не были привлекательными для меня"
+    },
+    { "en": "The shop wasn't open", "ru": "Магазин не был открыт" },
+    { "en": "He didn't open the door", "ru": "Он не открыл дверь" },
+    { "en": "The shop wasn't closed", "ru": "Магазин не был закрыт" },
+    { "en": "She didn't close [z] the window", "ru": "Она не закрыла окно" },
+    { "en": "I didn't agree with him", "ru": "Я не был согласен с ним" },
+    {
+      "en": "That business didn't seem so profitable",
+      "ru": "Тот бизнес не казался таким прибыльным"
+    },
+    {
+      "en": "This business wasn't profitable",
+      "ru": "Этот бизнес не был прибыльным"
+    }
+  ]
+}
