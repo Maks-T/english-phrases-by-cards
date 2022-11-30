@@ -1,0 +1,117 @@
+{
+  "name": "Question Past Simple Was Were Did",
+  "phrases": [
+    {
+      "en": "Did it really interest you?",
+      "ru": "Это действительно интересовало тебя?"
+    },
+    {
+      "en": "Was it really interesting for you?",
+      "ru": "Это было действительно интересно тебе?"
+    },
+    {
+      "en": "Did you feel really happy?",
+      "ru": "Ты чувствовал себя действительно счастливым?"
+    },
+    { "en": "Were you really happy?", "ru": "Ты был действительно счастлив?" },
+    {
+      "en": "Did she work as a shop assistant?",
+      "ru": "Она работала продавцом?"
+    },
+    { "en": "Was she a shop assistant?", "ru": "Она была продавцом?" },
+    { "en": "Did it lie on the bed?", "ru": "Это лежало на кровати" },
+    { "en": "Was it on the bed?", "ru": "Это было на кровати?" },
+    { "en": "Did you open the door?", "ru": "Ты открыл дверь?" },
+    { "en": "Was the door open?", "ru": "Дверь была открыта?" },
+    { "en": "Did you close [z] the window?", "ru": "Ты закрыл окно?" },
+    { "en": "Was the window closed? [zd]", "ru": "Окно было закрыто?" },
+    { "en": "Did you buy these [z] tickets?", "ru": "Ты купил эти билеты?" },
+    { "en": "Was it really better?", "ru": "Это было действительно лучше" },
+    { "en": "Was it a high level?", "ru": "Это был высокий уровень?" },
+    {
+      "en": "Did it seem a very high level?",
+      "ru": "Это казалось очень высоким уровнем?"
+    },
+    { "en": "Was it really strange?", "ru": "Это было действительно странно?" },
+    {
+      "en": "Did it seem really strange?",
+      "ru": "Это казалось действительно странным?"
+    },
+    {
+      "en": "Did it sound really interesting?",
+      "ru": "Это звучало действительно интересно?"
+    },
+    { "en": "Was it boring?", "ru": "Это было скучно?" },
+    {
+      "en": "Did you find this information?",
+      "ru": "Ты нашел эту информацию?"
+    },
+    {
+      "en": "Was this information really useful for you?",
+      "ru": "Эта информация была действительно полезной для тебя?"
+    },
+    {
+      "en": "Did you like this example?",
+      "ru": "Тебе понравился этот пример?"
+    },
+    { "en": "Was it a useful example?", "ru": "Это был полезный пример?" },
+    {
+      "en": "Was it really possible?",
+      "ru": "Это было действительно возможно?"
+    },
+    {
+      "en": "Did it seem really possible?",
+      "ru": "Это казалось действительно возможным? "
+    },
+    {
+      "en": "Was this information really useful for you?",
+      "ru": "Эта информация была действительно полезной для тебя?"
+    },
+    {
+      "en": "Did you like this example?",
+      "ru": "Тебе понравился этот пример?"
+    },
+    { "en": "Was it a useful example?", "ru": "Это был полезный пример?" },
+    {
+      "en": "Was it really possible?",
+      "ru": "Это было действительно возможно?"
+    },
+    {
+      "en": "Did it seem really possible?",
+      "ru": "Это казалось действительно возможным? "
+    },
+    { "en": "Did he agree to do it?", "ru": "Он был согласен сделать это?" },
+    { "en": "Did it happen last summer?", "ru": "Это произошло прошлым летом" },
+    { "en": "Was it in summer?", "ru": "Это было летом?" },
+    {
+      "en": "Why did it interest you so much?",
+      "ru": "Почему это интересовало тебя так сильно?"
+    },
+    {
+      "en": "Why was it so interesting for you?",
+      "ru": "Почему это было так интересно тебе?"
+    },
+    { "en": "Why was it so expensive?", "ru": "Почему это было так дорого?" },
+    { "en": "Why did it cost so much?", "ru": "Почему это стоило так дорого?" },
+    { "en": "When were you there?", "ru": "Когда ты был там?" },
+    {
+      "en": "When did you go there last time?",
+      "ru": "Когда ты ходил туда в последний раз?"
+    },
+    {
+      "en": "Was it a well-paid job?",
+      "ru": "Это была хорошо оплачиваемая работа?"
+    },
+    {
+      "en": "Did you want to find a new job?",
+      "ru": "Ты хотел найти новую работу?"
+    },
+    { "en": "Was he an instructor?", "ru": "Он был инструктором?" },
+    { "en": "Did he work as an instructor?", "ru": "Он работал инструктором?" },
+    { "en": "Who was at the party?", "ru": "Кто был на вечеринке?" },
+    {
+      "en": "Did you really like this movie?",
+      "ru": "Тебе действительно понравился этот фильм?"
+    }
+  ]
+}
