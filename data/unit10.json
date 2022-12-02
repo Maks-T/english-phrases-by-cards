@@ -1,0 +1,85 @@
+{
+  "name": "Present continuous",
+  "phrases": [
+    { "en": "I'm waiting for you", "ru": "Я жду тебя" },
+    { "en": "I'm learning English now", "ru": "Я занимаюсь английским сейчас" },
+    { "en": "I'm reading a book now", "ru": "Я читаю книгу сейчас" },
+    { "en": "I'm watching a movie now", "ru": "Я смотрю фильм сейчас" },
+    { "en": "We're playing now", "ru": "Мы играем сейчас" },
+    {
+      "en": "You're doing the right thing now",
+      "ru": "Ты делаешь правильную вещь сейчас"
+    },
+    { "en": "He’s working now", "ru": "Он работает сейчас" },
+    { "en": "She’s waiting for you", "ru": "Она ждет тебя" },
+    { "en": "It’s happening right now", "ru": "Это происходит прямо сейчас" },
+    {
+      "en": "I'm doing these [z] exercises [iz] at the moment",
+      "ru": "Я делаю эти упражнения в данный момент"
+    },
+    {
+      "en": "I'm trying to understand it now",
+      "ru": "Я пытаюсь понять это сейчас"
+    },
+    { "en": "I'm working a lot now", "ru": "Я много работаю сейчас" },
+    { "en": "I'm  working a lot these [z]", "ru": "Я много работаю в эти дни" },
+    { "en": "I'm studying a lot now", "ru": "Я много учусь сейчас" },
+    { "en": "I'm studying a lot these [z]", "ru": "Я много учусь в эти дни" },
+    {
+      "en": "I'm studying really hard now",
+      "ru": "Я занимаюсь действительно усердно сейчас"
+    },
+    {
+      "en": "I'm working really hard now",
+      "ru": "Я работаю действительно усердно сейчас"
+    },
+    {
+      "en": "Му English is getting better and better",
+      "ru": "Мой английский становится все лучше и лучше"
+    },
+    {
+      "en": "I see that my English is getting better and better",
+      "ru": "Я вижу, что мой английский становится все лучше и лучше"
+    },
+    {
+      "en": "So many people are getting poorer and poorer nowadays [z]",
+      "ru": "Так много людей становятся все беднее в наше время"
+    },
+    {
+      "en": "It's happening nowadays [z]",
+      "ru": "Это происходит в наше время"
+    },
+    {
+      "en": "I'm working so much this week",
+      "ru": "Я так много работаю на этой неделе"
+    },
+    { "en": "I'm working today", "ru": "Я работаю сегодня" },
+    {
+      "en": "I'm preparing for this exam today",
+      "ru": "Я готовлюсь к этому экзамену сегодня"
+    },
+    {
+      "en": "I'm preparing for this test today",
+      "ru": "Я готовлюсь к этому тесту сегодня"
+    },
+    {
+      "en": "Look! Something strange is happening there",
+      "ru": "Посмотри! Что-то странное происходит там"
+    },
+    { "en": "Listen! Someone is crying", "ru": "Послушай! Кто-то плачет" },
+    {
+      "en": "Listen! Someone is knocking at the door",
+      "ru": "Послушай! Кто-то стучится в дверь "
+    },
+    {
+      "en": "The boys are playing football now",
+      "ru": "Мальчики играют в футбол сейчас"
+    },
+    {
+      "en": "I'm talking on the phone now",
+      "ru": "Я говорю по телефону сейчас"
+    },
+    { "en": "It's raining now", "ru": "Сейчас идет дождь" },
+    { "en": "It's snowing now", "ru": "Сейчас идет снег" }
+  ]
+}
