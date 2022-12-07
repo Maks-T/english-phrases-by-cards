@@ -1,0 +1,89 @@
+{
+  "name": "Present continuous Negative",
+  "phrases": [
+    { "en": "Are you having a rest now?", "ru": "Ты сейчас отдыхаешь?" },
+    { "en": "Are you waiting for it now?", "ru": "Ты ждешь этого сейчас?" },
+    { "en": "Are you waiting for someone?", "ru": "Ты ждешь кого-то?" },
+    {
+      "en": "Are you thinking about it now?",
+      "ru": "Ты думаешь об этом сейчас?"
+    },
+    { "en": "Are you working today?", "ru": "Ты сегодня работаешь?" },
+    { "en": "is she waiting for us?", "ru": "Она ждет нас?" },
+    { "en": "Is he waiting for me?", "ru": "Он ждет меня?" },
+    { "en": "Is she cooking now?", "ru": "Она готовит сейчас?" },
+    { "en": "What are you eating now?", "ru": "Что ты сейчас ешь?" },
+    { "en": "What are you drinking now?", "ru": "Что ты пьешь сейчас?" },
+    { "en": "What are you doing now?", "ru": "Что ты сейчас делаешь?" },
+    { "en": "Where are you going now?", "ru": "Куда ты идешь сейчас?" },
+    { "en": "What are you writing now?", "ru": "Что ты сейчас пишешь?" },
+    { "en": "What are you playing now?", "ru": "Во что ты сейчас играешь?" },
+    { "en": "What is he doing now?", "ru": "Что он делает сейчас?" },
+    { "en": "What is she saying now?", "ru": "Что она сейчас говорит?" },
+    { "en": "What is he saying now?", "ru": "Что он сейчас говорит?" },
+    {
+      "en": "What is she telling him now?",
+      "ru": "Что она говорит ему сейчас?"
+    },
+    {
+      "en": "What language are they speaking now?",
+      "ru": "На каком языке они говорят сейчас?"
+    },
+    {
+      "en": "What game are you playing now?",
+      "ru": "В какую игру ты сейчас играешь?"
+    },
+    {
+      "en": "The girl isn't dancing now.She's singing",
+      "ru": "Девушка не танцует сейчас. Она поет"
+    },
+    {
+      "en": "I'm not waiting for it at the moment",
+      "ru": "Я не жду этого в настоящий момент"
+    },
+    {
+      "en": "I'm not playing computer games [z] now",
+      "ru": "Я сейчас не играю в компьютерные игры"
+    },
+    {
+      "en": "I'm not going home now.I'm going to another place",
+      "ru": "Я сейчас не иду домой.Я иду в другое место"
+    },
+    {
+      "en": "I'm not reading now.I'm writing",
+      "ru": "Я сейчас не читаю.Я пишу"
+    },
+    {
+      "en": "I'm not translating this text now. I'm doing another thing",
+      "ru": "Я сейчас не перевожу этот текст. Я делаю другую вещь"
+    },
+    {
+      "en": "They aren't losing now. They're winning",
+      "ru": "Они сейчас не проигрывают. Они выигрывают"
+    },
+    {
+      "en": "It isn't raining now.It's snowing",
+      "ru": "Сейчас не идет дождь.Идет снег"
+    },
+    {
+      "en": "It isn't snowing now. It's raining",
+      "ru": "Сейчас не идет снег. Идет дождь"
+    },
+    { "en": "What are you reading now?", "ru": "Что ты читаешь сейчас?" },
+    {
+      "en": "What book are you reading now?",
+      "ru": "Какую книгу ты сейчас читаешь?"
+    },
+    { "en": "What are you waiting for?", "ru": "Чего ты ждешь?" },
+    { "en": "What are they waiting for?", "ru": "Чего они ждут?" },
+    { "en": "Who are you waiting for?", "ru": "Кого ты ждешь?" },
+    { "en": "Who is he waiting for?", "ru": "Кого он ждет?" },
+    { "en": "Who is she waiting for?", "ru": "Кого она ждет?" },
+    { "en": "What are you talking about?", "ru": "О чем вы говорите?" },
+    { "en": "What аrе they talking about?", "ru": "О чем они говорят?" },
+    { "en": "What are you listening to?", "ru": "Что ты слушаешь? (сейчас)" },
+    { "en": "What is he listening to?", "ru": "Что он слушает?" },
+    { "en": "Is it raining now?", "ru": "Сейчас идет дождь?" },
+    { "en": "Is it snowing now?", "ru": "Сейчас идет снег?" }
+  ]
+}
