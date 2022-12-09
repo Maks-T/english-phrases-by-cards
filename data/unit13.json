@@ -1,0 +1,80 @@
+{
+  "name": "",
+  "phrases": [
+    { "en": "I work almost every day", "ru": "Я работаю почти каждый день" },
+    { "en": "I'm working at the moment", "ru": "Я работаю в данный момент" },
+    {
+      "en": "I read books when I have free time but not so often",
+      "ru": "Я читаю книги, когда у меня есть свободное время, но не так часто"
+    },
+    {
+      "en": "I'm reading a very interesting book now",
+      "ru": "Я читаю очень интересную книгу сейчас"
+    },
+    { "en": "Не often plays [z] football", "ru": "Он часто играет в футбол" },
+    { "en": "He's playing football now", "ru": "Он сейчас играет в футбол" },
+    {
+      "en": "I usually do these [z] exercises [iz] in the evening",
+      "ru": "Я обычно делаю эти упражнения вечером"
+    },
+    {
+      "en": "I'm doing very useful exercises [z] now",
+      "ru": "Я делаю очень полезные упражнения сейчас"
+    },
+    { "en": "Не often waits for her", "ru": "Он часто ее ждет" },
+    { "en": "He's waiting for her", "ru": "Он ждет ее" },
+    { "en": "She usually drinks tea", "ru": "Она обычно пьет чай" },
+    { "en": "She's drinking coffee now", "ru": "Она пьет кофе сейчас" },
+    { "en": "The baby is sleeping now", "ru": "Малыш спит сейчас" },
+    {
+      "en": "The baby usually sleeps in the afternoon",
+      "ru": "Малыш обычно спит днем"
+    },
+    {
+      "en": "She sometimes [z] listens [z] to the radio",
+      "ru": "Она иногда слушает радио"
+    },
+    {
+      "en": "She's listening to the radio now",
+      "ru": "Она слушает радио сейчас"
+    },
+    {
+      "en": "I'm watching a very funny video now",
+      "ru": "Я смотрю очень смешное видео сейчас"
+    },
+    {
+      "en": "I usually watch different videos [zl on YouTube",
+      "ru": "Я обычно смотрю различные видео на ютубе"
+    },
+    { "en": "We're travelling now", "ru": "Мы путешествуем сейчас" },
+    { "en": "We travel every year", "ru": "Мы путешествуем каждый год" },
+    {
+      "en": "It happens [z] again and again",
+      "ru": "Это происходит снова и снова"
+    },
+    {
+      "en": "This thing is happening right now",
+      "ru": "Эта вещь происходит прямо сейчас"
+    },
+    { "en": "We're having dinner now", "ru": "Мы ужинаем сейчас" },
+    {
+      "en": "We usually have dinner together",
+      "ru": "Мы обычно ужинаем вместе"
+    },
+    { "en": "I'm typing now", "ru": "Я сейчас печатаю" },
+    {
+      "en": "Не usually types very slowly",
+      "ru": "Он обычно печатает очень медленно"
+    },
+    {
+      "en": "Не always [z] says [z] such things [z]",
+      "ru": "Он всегда говорит такие вещи"
+    },
+    { "en": "She's saying it now", "ru": "Она говорит это сейчас" },
+    { "en": "I'm writing a letter now", "ru": "Я пишу письмо сейчас" },
+    {
+      "en": "I get so many letters [z] every day",
+      "ru": "Я получаю так много писем каждый день"
+    }
+  ]
+}
