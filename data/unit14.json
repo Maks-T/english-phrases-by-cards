@@ -1,0 +1,104 @@
+{
+  "name": "Present Simple again",
+  "phrases": [
+    { "en": "You always [z] say it", "ru": "Ты всегда говоришь это" },
+    { "en": "I often hear such things [z]", "ru": "Я часто слышу такие вещи" },
+    {
+      "en": "I usually order such things [z] online",
+      "ru": "Я обычно заказываю такие вещи онлайн"
+    },
+    { "en": "I sometimes [z] think about it", "ru": "Я иногда думаю об этом" },
+    { "en": "I never do it", "ru": "Я никогда не делаю это" },
+    { "en": "Не never notices [iz] it", "ru": "Он никогда не замечает это" },
+    {
+      "en": "She never notices [iz] this kind of things [z]",
+      "ru": "Она никогда не замечает такого рода вещи"
+    },
+    {
+      "en": "I never pay attention to it",
+      "ru": "Я никогда не обращаю внимание на это"
+    },
+    {
+      "en": "I often pay attention to it",
+      "ru": "Я часто обращаю внимание на это"
+    },
+    {
+      "en": "I go there three times [z] a week",
+      "ru": "Я хожу туда три раза в неделю"
+    },
+    {
+      "en": "I до to this club two times [z] a week",
+      "ru": "Я хожу в этот клуб два раза в неделю"
+    },
+    {
+      "en": "Не comes [z] to us twice a week",
+      "ru": "Он приходит к нам дважды в неделю"
+    },
+    {
+      "en": "Не goes [z] to the gym two or three times [z] a week",
+      "ru": "Он ходит в спортзал два или три раза в неделю"
+    },
+    { "en": "I rarely meet him", "ru": "Я редко встречаю его" },
+    {
+      "en": "I rarely buy this kind of things [z]",
+      "ru": "Я редко покупаю такого рода вещи"
+    },
+    {
+      "en": "I use [z] a dictionary very rarely",
+      "ru": "Я пользуюсь словарем очень редко"
+    },
+    { "en": "I watch TV very rarely", "ru": "Я смотрю телевизор очень редко" },
+    { "en": "She often complains [z]", "ru": "Она часто жалуется" },
+    { "en": "Не complains [z] very rarely", "ru": "Он жалуется очень редко" },
+    {
+      "en": "I think about it from time to time",
+      "ru": "Я думаю об этом время от времени"
+    },
+    { "en": "It happens [z] every day", "ru": "Это происходит каждый день" },
+    {
+      "en": "Не tries [z] to go abroad every year",
+      "ru": "Он старается ездить за границу каждый год"
+    },
+    { "en": "I work on Mondays [z]", "ru": "Я работаю по понедельникам" },
+    {
+      "en": "They meet on Sundays [z]",
+      "ru": "Они встречаются по воскресеньям"
+    },
+    {
+      "en": "I try to do it when I have free time",
+      "ru": "Я стараюсь делать это, когда у меня есть свободное время"
+    },
+    {
+      "en": "I see that it happens [z] again and again",
+      "ru": "Я вижу, что это происходит снова и снова"
+    },
+    {
+      "en": "They publish this news [z] daily",
+      "ru": "Они публикуют эти новости ежедневно"
+    },
+    {
+      "en": "I usually spend time with my friends [z] at the weekend",
+      "ru": "Я обычно провожу время со своими друзьями на выходных"
+    },
+    {
+      "en": "I prefer to spend time with my family at the weekend",
+      "ru": "Я предпочитаю проводить время с семьей по выходным"
+    },
+    {
+      "en": "We mostly meet in the evenings",
+      "ru": "Мы в основном встречаемся по вечерам"
+    },
+    {
+      "en": "We mostly discuss everything at work",
+      "ru": "Мы в основном все обсуждаем на работе"
+    },
+    {
+      "en": "I mostly use [z] this application",
+      "ru": "Я в основном пользуюсь этим приложением"
+    },
+    {
+      "en": "I mostly try not to pay attention to such things [z]",
+      "ru": "Я в основном стараюсь не обращать внимание на такие вещи"
+    }
+  ]
+}
