@@ -8,9 +8,7 @@ const frontTextElem = document.querySelector('#front-text');
 const backTextElem = document.querySelector('#back-text');
 const frontCardElem = document.querySelector('#front-card');
 const backCardElem = document.querySelector('#back-card');
-if (isIOS()) {
-  backCardElem.classList.toggle('hide');
-}
+
 const countQues = document.querySelector('.count-ques');
 const countKnow = document.querySelector('.count-know');
 const countUnknown = document.querySelector('.count-unknown');
@@ -41,13 +39,6 @@ window.onload = async () => {
 const clickCardHandle = (card) => {
   return (e) => {
     card.classList.toggle('rotated');
-    if (isIOS()) {
-      console.log('=>');
-      setTimeout(() => {
-        frontCardElem.classList.toggle('hide');
-        backCardElem.classList.toggle('hide');
-      }, 1000);
-    }
   };
 };
 
@@ -118,7 +109,3 @@ const selectLearnedWords = async (phrase) => {
 
   return phrase;
 };
-
-function isIOS() {
-  return ['iPad', 'iPhone', 'iPod'].indexOf(navigator.platform) >= 0;
-}
