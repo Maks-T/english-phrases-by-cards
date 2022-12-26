@@ -1,0 +1,101 @@
+{
+  "name": "Present Continious again",
+  "phrases": [
+    { "en": "I'm having breakfast now", "ru": "Я завтракаю сейчас" },
+    { "en": "I'm having lunch now", "ru": "Я сейчас обедаю" },
+    {
+      "en": "A very important thing is happening now",
+      "ru": "Очень важная вещь происходит сейчас"
+    },
+    { "en": "I'm doing it right now", "ru": "Я делаю это прямо сейчас" },
+    {
+      "en": "We're discussing it right now",
+      "ru": "Мы обсуждаем это прямо сейчас"
+    },
+    { "en": "It's happening right now", "ru": "Это происходит прямо сейчас" },
+    {
+      "en": "I'm training very intensively at the moment",
+      "ru": "Я очень интенсивно тренируюсь в в данный момент"
+    },
+    {
+      "en": "It's happening at the moment",
+      "ru": "Это происходит в данный момент"
+    },
+    { "en": "I'm having a rest today", "ru": "Я сегодня отдыхаю" },
+    { "en": "She's working today", "ru": "Она сегодня работает" },
+    {
+      "en": "I'm preparing for ту final exam this week",
+      "ru": "Я готовлюсь к своему последнему экзамену на этой неделе"
+    },
+    {
+      "en": "I'm preparing for a very important test this week",
+      "ru": "Я готовлюсь к очень важному тесту на этой неделе"
+    },
+    {
+      "en": " I'm working much more this month",
+      "ru": "В этом месяце я работаю намного больше"
+    },
+    {
+      "en": "He's working much less this year",
+      "ru": "В этом году он работает намного меньше"
+    },
+    {
+      "en": "The lessons [z] are getting more and more interesting",
+      "ru": "Уроки становятся все интереснее"
+    },
+    {
+      "en": "Food is getting more and more expensive",
+      "ru": "Еда становится все дороже и дороже"
+    },
+    {
+      "en": "Му progress is getting bigger and bigger",
+      "ru": "Мой прогресс становится все больше и больше"
+    },
+    {
+      "en": "This song is getting more and more popular",
+      "ru": "Эта песня становится все более популярной"
+    },
+    {
+      "en": "I really feel that my English level is getting higher and higher",
+      "ru": "Я действительно чувствую, что мой уровень английского становится все выше и выше"
+    },
+    { "en": "I'm still waiting for it", "ru": "Я все еще жду этого" },
+    { "en": "I'm still thinking about it", "ru": "Я все еще думаю об этом" },
+    {
+      "en": "I'm considering this offer now",
+      "ru": "Я рассматриваю это предложение сейчас"
+    },
+    {
+      "en": "I'm still considering this offer",
+      "ru": "Я все еще рассматриваю это предложение"
+    },
+    {
+      "en": "Look! Someone is looking for you",
+      "ru": "Посмотри! Кто-то ищет тебя"
+    },
+    {
+      "en": "Listen! Someone is calling you",
+      "ru": "Послушай! Кто-то зовет тебя"
+    },
+    {
+      "en": "It's becoming a real problem nowadays [z]",
+      "ru": "Это становится реальной проблемой в наше время"
+    },
+    {
+      "en": "Free online education is getting more and more available",
+      "ru": "Бесплатное онлайн-образование становится все более доступным"
+    },
+    {
+      "en": "This knowledge is getting more and more available",
+      "ru": "Эти знания становятся все более доступными"
+    },
+    {
+      "en": "Free online education is getting more and more available nowadays [z]",
+      "ru": "Бесплатное онлайн-образование становится все более доступным в наше время"
+    },
+    {
+      "en": "This knowledge is getting more and more available nowadays [z]",
+      "ru": "Эти знания становятся все более доступными в наше время"
+    }
+  ]
+}

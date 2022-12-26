@@ -1,0 +1,40 @@
+{
+  "name": "Non-continious words",
+  "phrases": [
+    {
+      "en": "I see a building in front of me now",
+      "ru": "Я вижу здание перед собой сейчас"
+    },
+    { "en": "I wish you good luck now", "ru": "Я желаю тебе удачи сейчас" },
+    { "en": "I agree with you now ", "ru": "Я согласен с тобой сейчас" },
+    {
+      "en": "It seems [z] the best choice now",
+      "ru": "Это кажется лучшим выбором сейчас"
+    },
+    { "en": "I don't believe him now ", "ru": "Я не верю ему сейчас" },
+    {
+      "en": "I think it's extremely important now",
+      "ru": "Я думаю, это чрезвычайно важно сейчас"
+    },
+    {
+      "en": "I think it's quite interesting now",
+      "ru": "Я думаю, это довольно интересно сейчас"
+    },
+    {
+      "en": "I'm thinking about it right now",
+      "ru": "Я думаю об этом прямо сейчас"
+    },
+    {
+      "en": "I feel that I need to do it now",
+      "ru": "Я чувствую, что мне нужно сделать это сейчас"
+    },
+    {
+      "en": "I see what you mean now",
+      "ru": "Я вижу, что ты имеешь в виду сейчас"
+    },
+    {
+      "en": "I see a house in front of me now",
+      "ru": "Я вижу дом перед собой сейчас"
+    }
+  ]
+}
