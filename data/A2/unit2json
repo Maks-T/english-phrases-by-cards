@@ -1,0 +1,41 @@
+{
+  "name": "Past Continious",
+  "phrases": [
+    {
+      "en": "The sun was shining very brightly and the birds were singing",
+      "ru": "Солнце светило очень ярко, и пели птицы"
+    },
+    {
+      "en": "When I woke up, the sun was shining very brightly",
+      "ru": "Когда я проснулся, солнце светило очень ярко"
+    },
+    {
+      "en": "When I came home, I drank a cup of tea",
+      "ru": "Когда я пришел домой, я выпил чашку чая"
+    },
+    {
+      "en": "When I came home, I fell asleep",
+      "ru": "Когда я пришел домой, я заснул"
+    },
+    {
+      "en": "Не fell asleep when he came home",
+      "ru": "Он заснул, когда пришел домой"
+    },
+    {
+      "en": "I was waiting for your message",
+      "ru": "Я ждал твоего сообщения"
+    },
+    {
+      "en": "I was waiting for your answer with impatience",
+      "ru": "Я с нетерпением ждал твоего ответа"
+    },
+    {
+      "en": "То tell the truth, I was waiting for your answer with impatience",
+      "ru": "Сказать правду, я ждал твоего ответа с нетерпением"
+    },
+    {
+      "en": "То tell the truth, I was waiting for this news with impatience",
+      "ru": "Сказать правду, я ждал этих новостей с нетерпением"
+    }
+  ]
+}
