@@ -1,0 +1,171 @@
+{
+  "name": "lesson 1. against, region, average, dentist, nature, act, code,  necessary, data, charity",
+  "phrases": [
+    { "en": "I am against smoking.", "ru": "Я против курения." },
+    {
+      "en": "He is against the idea of moving to another city.",
+      "ru": "Он против идеи переезда в другой город."
+    },
+    {
+      "en": "The company is against the new proposal.",
+      "ru": "Компания против нового предложения."
+    },
+    {
+      "en": "She is against the plan to cut funding for education.",
+      "ru": "Она против плана сокращения финансирования образования."
+    },
+
+    {
+      "en": "The region is known for its beautiful beaches.",
+      "ru": "Эта область известна своими красивыми пляжами."
+    },
+    {
+      "en": "This region is famous for its wine production.",
+      "ru": "Эта область славится своим виноделием."
+    },
+    {
+      "en": "The region is still recovering from the recent natural disaster.",
+      "ru": "Регион все еще восстанавливается от недавнего наводнения."
+    },
+    {
+      "en": "The region is facing economic challenges.",
+      "ru": "Регион сталкивается с экономическими проблемами."
+    },
+
+    {
+      "en": "The average temperature in this city is quite warm.",
+      "ru": "Средняя температура в этом городе довольно теплая."
+    },
+    {
+      "en": "The average salary in this field is quite high.",
+      "ru": "Средняя зарплата в этой области довольно высокая."
+    },
+    {
+      "en": "The average life expectancy in this country is quite low.",
+      "ru": "Средняя продолжительность жизни в этой стране довольно низ кая."
+    },
+    {
+      "en": "The average number of vacation days in this company is quite low.",
+      "ru": "Среднее количество дней отпуска в этой компании довольно низкое."
+    },
+
+    {
+      "en": "I have an appointment with the dentist next week.",
+      "ru": "У меня назначена встреча с зубным врачом на следующей неделе."
+    },
+    {
+      "en": "The dentist will check my teeth and give me a cleaning.",
+      "ru": "Зубной врач проверит мои зубы и проведет профилактическую чистку."
+    },
+    {
+      "en": "I am afraid of going to the dentist .",
+      "ru": "Мне страшно идти к зубному врачу."
+    },
+    {
+      "en": "The dentist is going to fix my cavities.",
+      "ru": "Зубной врач сделает мне пломбы на кариес."
+    },
+
+    {
+      "en": "The nature here is so beautiful.",
+      "ru": "Природа здесь так красива."
+    },
+    {
+      "en": "I love to spend my free time in nature.",
+      "ru": "Я люблю тратить свободное время на природе."
+    },
+    {
+      "en": "The company is trying to harm nature for profit.",
+      "ru": "Компания пытается вредить природе ради прибыли."
+    },
+    {
+      "en": "The nature is recovering after the recent natural disaster.",
+      "ru": "Природа восстанавливается после недавнего наводнения."
+    },
+
+    {
+      "en": "I will act on this information immediately.",
+      "ru": "Я немедленно приму меры на основе этой информации."
+    },
+    {
+      "en": "He acted quickly in the emergency situation.",
+      "ru": "Он быстро поступил в аварийной ситуации."
+    },
+    {
+      "en": "She is known for her ability to act under pressure.",
+      "ru": "Она известна своей способностью действовать под давлением."
+    },
+    {
+      "en": "I am trying to act more confident in meetings.",
+      "ru": "Я пытаюсь вести себя с большей уверенностью на встречах."
+    },
+
+    {
+      "en": "The company has a code of conduct that all employees must follow.",
+      "ru": "У компании есть кодекс поведения, которого должны следовать все сотрудники."
+    },
+    {
+      "en": "The code is written in a programming language.",
+      "ru": "Код написан на языке программирования."
+    },
+    {
+      "en": "I need help understanding the code.",
+      "ru": "Мне нужна помощь в понимании кода."
+    },
+    {
+      "en": "The code is protected by a complex algorithm",
+      "ru": "Код защищен сложным алгоритмом."
+    },
+
+    {
+      "en": "It is necessary to arrive on time for the meeting.",
+      "ru": "Необходимо прибыть вовремя на встречу."
+    },
+    {
+      "en": "He explained that it is necessary to do some extra work to finish the project.",
+      "ru": "Он объяснил, что необходимо сделать дополнительную работу, чтобы завершить проект."
+    },
+    {
+      "en": "The doctor said that it is necessary to take these pills every day.",
+      "ru": "Доктор сказал, что необходимо принимать эти таблетки каждый день."
+    },
+    {
+      "en": "It is necessary to wear a mask to enter the building.",
+      "ru": "Необходимо носить маску, чтобы войти в здание."
+    },
+
+    {
+      "en": "The company is collecting data on consumer behavior.",
+      "ru": "Компания собирает данные о поведении потребителей."
+    },
+    {
+      "en": "The data shows that the company is performing well.",
+      "ru": "Данные показывают, что компания делает хорошую рааботу."
+    },
+    {
+      "en": "I need to analyze the data before making a decision.",
+      "ru": "Мне нужно анализировать данные перед принятием решения."
+    },
+    {
+      "en": "The data is stored on a secure server.",
+      "ru": "Данные хранятся на безопасном сервере."
+    },
+
+    {
+      "en": "The charity organization raises money for children in need.",
+      "ru": "Благотворительная организация собирает деньги для детей, которым нужна помощь."
+    },
+    {
+      "en": "I am going to volunteer for the charity event next weekend.",
+      "ru": "Я собираюсь волонтерить на благотворительном мероприятии в следующую неделю."
+    },
+    {
+      "en": "He is known for his charity work in the community.",
+      "ru": "Он известен своей благотворительной деятельностью в сообществе."
+    },
+    {
+      "en": "The company is donating a portion of its profits to charity.",
+      "ru": "Компания дарит часть своей прибыли на благотворительные цели."
+    }
+  ]
+}
