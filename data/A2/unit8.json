@@ -2,92 +2,96 @@
   "name": "90 irregular verbs-210 regular verbs in 7 different tenses (3 part)",
   "phrases": [
     {
-      "en": "They included his name in the list",
-      "ru": "Они включили его имя в список"
+      "en": "I'd like to wish you good luck, strong health and real happiness",
+      "ru": "Я хотел бы пожелать тебе удачи, крепкого здоровья и настоящего счастья"
     },
     {
-      "en": "Не said that the latest news had surprised him greatly",
-      "ru": "Он сказал, что последние новости его очень сильно удивили"
+      "en": "They attacked their enemy suddenly",
+      "ru": "Они напали на своего врага внезапно"
     },
     {
-      "en": "While we were walking in the park, they were staying at home",
-      "ru": "Пока мы гуляли в парке, они сидели дома"
+      "en": "I've never heard such an amazing voice",
+      "ru": "Я никогда не слышал такого потрясающего голоса"
     },
     {
-      "en": "I've never experienced such a feeling",
-      "ru": "Я никогда не испытывал такого чувства"
+      "en": "I heard it from time to time",
+      "ru": "Я слышал это время от времени"
     },
     {
-      "en": "They’re going to increase the price",
-      "ru": "Они собираются повысить цену"
+      "en": "I'll try to describe you my feelings",
+      "ru": "Я постараюсь описать тебе свои чувства"
+    },
+    { "en": "I've already checked everything", "ru": "Я уже все проверил" },
+    {
+      "en": "They mostly produced very expensive goods",
+      "ru": "Они в основном производили очень дорогие товары"
     },
     {
-      "en": "То be honest, I've never seen anything like it before",
-      "ru": "Если честно, я никогда раньше не видел ничего подобного"
-    },
-    { "en": "I saw him at the party", "ru": "Я видел его на вечеринке" },
-    {
-      "en": "Не lost his wallet somewhere",
-      "ru": "Он где-то потерял свой кошелек"
+      "en": "I showed such a good result",
+      "ru": "Я показал такой хороший результат"
     },
     {
-      "en": "Не told us that he had lost the wallet somewhere",
-      "ru": "Он сказал нам, что где-то потерял кошелек"
+      "en": "She said that he had shown an excellent result",
+      "ru": "Она сказала, что он показал отличный результат"
     },
     {
-      "en": "She said that she had failed the test",
-      "ru": "Она сказала, что провалила тест"
+      "en": "I haven't found a solution to this problem yet",
+      "ru": "Я еще не нашел решение этой проблемы"
+    },
+
+    {
+      "en": "I found out that something was wrong",
+      "ru": "Я обнаружил, что что-то было не так"
+    },
+    { "en": "I really appreciate your help", "ru": "Я очень ценю вашу помощь" },
+    {
+      "en": "I see that they’re arguing about something",
+      "ru": "Я вижу, что они спорят о чем-то"
     },
     {
-      "en": "They've released a new album this year",
-      "ru": "В этом году они выпустили новый альбом"
+      "en": "It's hard to believe that it's really possible",
+      "ru": "Трудно поверить, что это действительно возможно"
     },
     {
-      "en": "They often criticize him for no reason at all",
-      "ru": "Они часто критикуют его вовсе без всякой причины"
-    },
-    { "en": "I guessed the correct answer", "ru": "Я угадал правильный ответ" },
-    {
-      "en": "I've already guessed the correct answer",
-      "ru": "Я уже угадал правильный ответ"
+      "en": "It's hard to believe that it's just happened",
+      "ru": "Трудно поверить, что это только что произошло"
     },
     {
-      "en": "When he speaks English, he lacks confidence but I think that it's just a matter of practice",
-      "ru": "Когда он говорит по-английски, ему не хватает уверенности, но я думаю, что это просто дело практики"
+      "en": "While he was training so intensively, they were doing nothing",
+      "ru": "В то время как он тренировался так интенсивно, они ничего не делали"
     },
     {
-      "en": "I've just written this report",
-      "ru": "Я только что написал этот отчет"
+      "en": "While I was training so intensively, they weren't doing anything at all",
+      "ru": "Пока я тренировался так интенсивно, они вовсе не делали что-либо"
     },
     {
-      "en": "They’re sitting on the floor and talking about something",
-      "ru": "Они сидят на полу и о чем-то говорят"
+      "en": "Such a theory really exists",
+      "ru": "Такая теория действительно существует"
     },
     {
-      "en": "They've already painted the wall",
-      "ru": "Они уже покрасили стену"
+      "en": "I remembered that I had deleted those files by mistake",
+      "ru": "Я вспомнил, что удалил те файлы по ошибке"
+    },
+    { "en": "I've already paid for it", "ru": "Я уже заплатил за это" },
+    {
+      "en": "Не held the baby in his arms",
+      "ru": "Он подержал малыша на руках"
     },
     {
-      "en": "The car has just broken down",
-      "ru": "Машина только что сломалась"
-    },
-    { "en": "His car often broke down", "ru": "Его машина часто ломалась" },
-    {
-      "en": "She taught us English but I didn't really understand it",
-      "ru": "Она преподавала нам английский, но я это действительно не понимал"
-    },
-    { "en": "I've already started this course", "ru": "Я уже начал этот курс" },
-    {
-      "en": "I greatly improved my English with the help of this method",
-      "ru": "Я очень сильно улучшил свой английский с помощью этого метода"
+      "en": "Не says that life can punish him",
+      "ru": "Он говорит, что жизнь может наказать его"
     },
     {
-      "en": "I hope that I'll find a better job soon",
-      "ru": "Я надеюсь, что скоро найду работу получше"
+      "en": "I've already translated this text",
+      "ru": "Я уже перевел этот текст"
     },
     {
-      "en": "I hope that the situation will improve soon",
-      "ru": "Я надеюсь, что ситуация скоро улучшится"
+      "en": "It's become a real sensation this year",
+      "ru": "Это стало настоящей сенсацией в этом году"
+    },
+    {
+      "en": "What were you watching when he entered the room?",
+      "ru": "Что ты смотрел, когда он вошел в комнату?"
     }
   ]
 }
