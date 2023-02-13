@@ -139,3 +139,8 @@ b {
   color: #ffec62;
   letter-spacing: 0.05rem;
 }
+
+#back-text span {
+  color: #e3e700;
+  font-size: 80%;
+}

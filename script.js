@@ -59,10 +59,11 @@ const loadNextQuestion = async (questions) => {
   }
 
   frontTextElem.innerHTML = questions[curIndex].ru;
-  backTextElem.innerHTML = questions[curIndex].trn
+  backTextElem.innerHTML = questions[curIndex].tr
     ? (await selectLearnedWords(questions[curIndex].en)) +
-      '<br>' +
-      questions[curIndex].trn
+      '<br><span>' +
+      questions[curIndex].tr +
+      '</span>'
     : await selectLearnedWords(questions[curIndex].en);
 
   card.classList.remove('rotated');

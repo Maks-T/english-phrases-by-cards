@@ -2,92 +2,70 @@
   "name": "90 irregular verbs-210 regular verbs in 7 different tenses (6 part)",
   "phrases": [
     {
-      "en": "They included his name in the list",
-      "ru": "Они включили его имя в список"
+      "en": "As for English, the most important thing is to be able to communicate with others using this language",
+      "ru": "Что касается английского, то самая важная вещь - это уметь общаться с другими, используя этот язык"
     },
     {
-      "en": "Не said that the latest news had surprised him greatly",
-      "ru": "Он сказал, что последние новости его очень сильно удивили"
+      "en": "Have you ever considered this opportunity?",
+      "ru": "Ты когда-нибудь рассматривал эту возможность?"
     },
     {
-      "en": "While we were walking in the park, they were staying at home",
-      "ru": "Пока мы гуляли в парке, они сидели дома"
+      "en": "То be frank, I’ve never considered this opportunity",
+      "ru": "Откровенно говоря, я никогда не рассматривал эту возможность"
     },
     {
-      "en": "I've never experienced such a feeling",
-      "ru": "Я никогда не испытывал такого чувства"
+      "en": "She offered me a cup of tea",
+      "ru": "Она предложила мне чашку чая"
+    },
+    { "en": "He burnt the letter", "ru": "Он сжег письмо" },
+    {
+      "en": "They provide excellent conditions",
+      "ru": "Они предоставляют отличные условия"
     },
     {
-      "en": "They’re going to increase the price",
-      "ru": "Они собираются повысить цену"
+      "en": "I looked at them and saw that they were behaving very strangely",
+      "ru": "Я посмотрел на них и увидел, что они вели себя очень странно"
+    },
+    { "en": "When will you return home?", "ru": "Когда ты вернешься домой?" },
+    { "en": "Press the button!", "ru": "Нажми на кнопку!" },
+    { "en": "You need to press the button", "ru": "Тебе нужно нажать кнопку" },
+    { "en": "What do you mean?", "ru": "Что ты имеешь в виду?" },
+    {
+      "en": "It means that we need to be more careful",
+      "ru": "Это значит, что нам нужно быть осторожнее"
+    },
+    { "en": "Не needs to clean the car", "ru": "Ему нужно почистить машину" },
+    { "en": "I've already given him some advice", "ru": "Я уже дал ему совет" },
+    {
+      "en": "It brought me lots of positive emotions",
+      "ru": "Это принесло мне массу положительных эмоций"
     },
     {
-      "en": "То be honest, I've never seen anything like it before",
-      "ru": "Если честно, я никогда раньше не видел ничего подобного"
-    },
-    { "en": "I saw him at the party", "ru": "Я видел его на вечеринке" },
-    {
-      "en": "Не lost his wallet somewhere",
-      "ru": "Он где-то потерял свой кошелек"
+      "en": "This speech really inspired the audience",
+      "ru": "Эта речь действительно вдохновила аудиторию"
     },
     {
-      "en": "Не told us that he had lost the wallet somewhere",
-      "ru": "Он сказал нам, что где-то потерял кошелек"
+      "en": "I need to add one very important thing",
+      "ru": "Мне нужно добавить одну очень важную вещь"
+    },
+    { "en": "Did they really kill him?", "ru": "Они действительно убили его?" },
+    {
+      "en": "She said that she had read that book",
+      "ru": "Она сказала, что прочитала ту книгу"
     },
     {
-      "en": "She said that she had failed the test",
-      "ru": "Она сказала, что провалила тест"
+      "en": "I expect that next time it’ll be different",
+      "ru": "Я ожидаю, что в следующий раз это будет по-другому"
     },
+    { "en": "I can rely on him", "ru": "Я могу положиться на него" },
     {
-      "en": "They've released a new album this year",
-      "ru": "В этом году они выпустили новый альбом"
+      "en": "I can always rely on him",
+      "ru": "Я всегда могу на него положиться"
     },
+    { "en": "Someone was knocking at the door", "ru": "Кто-то стучал в дверь" },
     {
-      "en": "They often criticize him for no reason at all",
-      "ru": "Они часто критикуют его вовсе без всякой причины"
-    },
-    { "en": "I guessed the correct answer", "ru": "Я угадал правильный ответ" },
-    {
-      "en": "I've already guessed the correct answer",
-      "ru": "Я уже угадал правильный ответ"
-    },
-    {
-      "en": "When he speaks English, he lacks confidence but I think that it's just a matter of practice",
-      "ru": "Когда он говорит по-английски, ему не хватает уверенности, но я думаю, что это просто дело практики"
-    },
-    {
-      "en": "I've just written this report",
-      "ru": "Я только что написал этот отчет"
-    },
-    {
-      "en": "They’re sitting on the floor and talking about something",
-      "ru": "Они сидят на полу и о чем-то говорят"
-    },
-    {
-      "en": "They've already painted the wall",
-      "ru": "Они уже покрасили стену"
-    },
-    {
-      "en": "The car has just broken down",
-      "ru": "Машина только что сломалась"
-    },
-    { "en": "His car often broke down", "ru": "Его машина часто ломалась" },
-    {
-      "en": "She taught us English but I didn't really understand it",
-      "ru": "Она преподавала нам английский, но я это действительно не понимал"
-    },
-    { "en": "I've already started this course", "ru": "Я уже начал этот курс" },
-    {
-      "en": "I greatly improved my English with the help of this method",
-      "ru": "Я очень сильно улучшил свой английский с помощью этого метода"
-    },
-    {
-      "en": "I hope that I'll find a better job soon",
-      "ru": "Я надеюсь, что скоро найду работу получше"
-    },
-    {
-      "en": "I hope that the situation will improve soon",
-      "ru": "Я надеюсь, что ситуация скоро улучшится"
+      "en": "When he opened the door, he saw a stranger",
+      "ru": "Когда он открыл дверь, он увидел незнакомца"
     }
   ]
 }
