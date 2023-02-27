@@ -1,35 +1,119 @@
 {
-  "name": "lesson 1. to appear to cancel",
+  "name": "lesson 1. appear, cancel, regret, blow, compose, congratulate, correct",
   "phrases": [
     {
-      "en": "It appears that he's not coming",
-      "ru": "Похоже, что он не придет",
-      "tr": "[ɪt əˈpɪrz ðæt hi z nɒt ˈkʌmɪŋ]"
+      "en": "If she hasn't appeared by ten o'clock I'm going without her.",
+      "ru": "Если она не появится к десяти часам, я пойду без нее."
     },
     {
-      "en": "She appeared to be upset",
-      "ru": "Она казалась расстроенной",
-      "tr": "[ʃi əˈpɪrd tə bi ʌpˈset]"
+      "en": "Her picture appeared on the front page of the newspaper.",
+      "ru": "Ее фотография появилась на первой странице газеты."
     },
     {
-      "en": "The answer will appear tomorrow",
-      "ru": "Ответ появится завтра",
-      "tr": "[ðə ˈænsər wɪl əˈpɪr ˈtɒmərəʊ]"
+      "en": "A bus appeared around the corner.",
+      "ru": "Из-за угла показался автобус."
     },
     {
-      "en": "I had to cancel my plans",
-      "ru": "Мне пришлось отменить мои планы",
-      "tr": "[aɪ hæd tə ˈkænsəl maɪ plænz]"
+      "en": "When did mammals appear on the earth?",
+      "ru": "Когда на земле появились млекопитающие?"
     },
     {
-      "en": "The meeting was cancelled due to the weather",
-      "ru": "Встреча была отменена из-за погоды",
-      "tr": "[ðə ˈmiːtɪŋ wəz ˈkænsəld dju tə ðə ˈweðər]"
+      "en": "Sorry, I have to cancel our plans tonight.",
+      "ru": "Извини, я должен отменить наши планы на сегодняшний вечер."
     },
     {
-      "en": "She cancelled her subscription",
-      "ru": "Она отменила свою подписку",
-      "tr": "[ʃi ˈkænsəld hɜr səbˈskrɪpʃən]"
+      "en": "Is it too late to cancel my order?",
+      "ru": "Не слишком ли поздно отменить мой заказ?"
+    },
+    {
+      "en": "I canceled at the last minute",
+      "ru": "Я отменил в последнюю минуту"
+    },
+    {
+      "en": "He cancelled the rest of his vacation",
+      "ru": "Он отменил остаток своего отпуска"
+    },
+    {
+      "en": "We canceled our dinner reservation",
+      "ru": "Мы отменили наш заказ на ужин"
+    },
+    {
+      "en": "My flight was canceled because of the storm.",
+      "ru": "Мой рейс был отменен из-за шторма."
+    },
+    {
+      "en": "I deeply regret what I said.",
+      "ru": "Я глубоко сожалею о том, что сказал."
+    },
+    {
+      "en": "She does not regret leaving him.",
+      "ru": "Она не жалеет, что ушла от него."
+    },
+    {
+      "en": "I soon came to regret my action.",
+      "ru": "Вскоре я пожалел о своем поступке."
+    },
+    {
+      "en": " I very much regret that I cannot be with you this evening.",
+      "ru": "Я очень сожалею, что не могу быть с вами этим вечером."
+    },
+    {
+      "en": "Is there anything you've done in your life that you regret?",
+      "ru": "Есть ли что-нибудь, что вы сделали в своей жизни, о чем вы сожалеете?"
+    },
+    {
+      "en": " He regretted his decision to leave school.",
+      "ru": "Он сожалел о своем решении бросить школу."
+    },
+    {
+      "en": "The wind was blowing harder every minute.",
+      "ru": "Ветер дул сильнее с каждой минутой."
+    },
+    { "en": "I blew the dust off the books.", "ru": "Я сдул пыль с книг." },
+    { "en": "A light wind was blowing.", "ru": "Дул легкий ветерок." },
+    {
+      "en": "He composed this poem for his wife.",
+      "ru": "Он сочинил это стихотворение для своей жены."
+    },
+    {
+      "en": "I was so confused that I could hardly compose my thoughts.",
+      "ru": "Я был так сбит с толку, что с трудом мог собраться с мыслями."
+    },
+    {
+      "en": "My lawyer is going to compose a letter of complaint.",
+      "ru": "Мой адвокат собирается составить письмо с жалобой."
+    },
+    {
+      "en": "The music was specially composed for the film.",
+      "ru": "Музыка была специально написана для фильма."
+    },
+    {
+      "en": "Air is composed mainly of nitrogen and oxygen.",
+      "ru": "Воздух состоит в основном из азота и кислорода."
+    },
+    {
+      "en": "She finally stopped crying and composed herself.",
+      "ru": "Она наконец перестала плакать и взяла себя в руки."
+    },
+    {
+      "en": "I'd like to congratulate you on your success.",
+      "ru": "Я хотел бы поздравить вас с вашим успехом."
+    },
+    {
+      "en": "You can congratulate yourself on having done an excellent job.",
+      "ru": "Вы можете поздравить себя с тем, что проделали отличную работу."
+    },
+    {
+      "en": "I hate it when she corrects my grammar.",
+      "ru": "Я ненавижу, когда она исправляет мою грамматику."
+    },
+    {
+      "en": "Our teacher hasn't finished correcting our tests yet.",
+      "ru": "Наш учитель еще не закончил исправлять наши тесты."
+    },
+    {
+      "en": "Please correct your essay for punctuation errors.",
+      "ru": "Пожалуйста, исправьте в своем сочинении пунктуационные ошибки."
     }
   ]
 }
