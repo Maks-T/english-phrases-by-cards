@@ -1,0 +1,110 @@
+{
+  "name": "lesson 2",
+  "phrases": [
+    {
+      "en": "The newspaper is published daily.",
+      "ru": "Газета выходит ежедневно."
+    },
+    {
+      "en": "He has not published anything for a long time.",
+      "ru": "Он уже давно ничего не публиковал."
+    },
+    {
+      "en": "The first edition was published in 2007.",
+      "ru": "Первое издание было опубликовано в 2007 году."
+    },
+    {
+      "en": "He couldn't solve the math problem.",
+      "ru": "Он не смог решить математическую задачу."
+    },
+    { "en": "The mystery has been solved.", "ru": "Тайна была разгадана." },
+    {
+      "en": "You can't solve anything by just running away.",
+      "ru": "Ты ничего не можешь решить, просто убегая."
+    },
+    {
+      "en": "I just wish you'd tidy up after yourself.",
+      "ru": "Я просто хочу, чтобы ты прибирала за собой!"
+    },
+    { "en": "tidy up your room.", "ru": "приберись в своей комнате." },
+    { "en": "I've tidied up your room.", "ru": "Я прибрался в твоей комнате." },
+    {
+      "en": "Everyone likes winning an argument.",
+      "ru": "Всем нравится выигрывать в споре."
+    },
+    {
+      "en": "I had a sore throat and it hurt to swallow.",
+      "ru": "У меня болело горло, и было больно глотать."
+    },
+    { "en": "I swallowed it", "ru": "Я проглотил это" },
+    { "en": "I can't swallow it.", "ru": "Я не могу проглотить это." },
+    {
+      "en": "He swallowed his drink in one gulp.",
+      "ru": "Он проглотил свой напиток одним глотком."
+    },
+    {
+      "en": "She followed me into the kitchen.",
+      "ru": "Она последовала за мной на кухню."
+    },
+    {
+      "en": "I decided to follow her advice and go to bed early.",
+      "ru": "Я решил последовать ее совету и лечь спать пораньше."
+    },
+    {
+      "en": "That house was abandoned years ago.",
+      "ru": "Этот дом был заброшен много лет назад."
+    },
+    {
+      "en": "They abandoned the car on a back road.",
+      "ru": "Они бросили машину на проселочной дороге."
+    },
+    {
+      "en": "She abandoned hope of any reconciliation.",
+      "ru": "Она оставила надежду на какое-либо примирение."
+    },
+    {
+      "en": "I never expected that he would abuse the trust",
+      "ru": "Я никогда не ожидал, что он злоупотребит доверием"
+    },
+    {
+      "en": "I used to abuse alcohol",
+      "ru": "раньше я злоупотреблял алкоголем"
+    },
+    {
+      "en": "She stepped on the gas and the car accelerated.",
+      "ru": "Она нажала на газ, и машина ускорилась."
+    },
+    {
+      "en": "The plane accelerated down the runway.",
+      "ru": "Самолет ускорился по взлетно-посадочной полосе."
+    },
+    {
+      "en": "The car accelerated to overtake me.",
+      "ru": "Машина ускорилась, чтобы обогнать меня."
+    },
+    {
+      "en": "She would not reveal the secret.",
+      "ru": "Она не хотела раскрывать этот секрет."
+    },
+    {
+      "en": "Her expression revealed nothing.",
+      "ru": "Выражение ее лица ничего не выражало."
+    },
+    {
+      "en": "I will not reveal your identity.",
+      "ru": "Я не раскрою вашу личность."
+    },
+    {
+      "en": "Their diet consisted largely of vegetables.",
+      "ru": "Их рацион состоял в основном из овощей."
+    },
+    {
+      "en": "The team consists of ten people.",
+      "ru": "Команда состоит из десяти человек."
+    },
+    {
+      "en": "Our plan consists of three parts",
+      "ru": "Наш план состоит из трех частей"
+    }
+  ]
+}
