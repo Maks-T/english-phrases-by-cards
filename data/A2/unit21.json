@@ -1,0 +1,73 @@
+{
+  "name": "Modal verbs",
+  "phrases": [
+    {
+      "en": "I think it can happen to each of us",
+      "ru": "Я думаю, это может случиться с каждым из нас"
+    },
+    {
+      "en": "I think you should tell him about it",
+      "ru": "Я думаю, тебе следует сказать ему об этом"
+    },
+    {
+      "en": "I understand that I must do it on a regular basis",
+      "ru": "Я понимаю, что я должен делать это на регулярной основе"
+    },
+    {
+      "en": "It may happen quite soon",
+      "ru": "Это возможно произойдет довольно скоро"
+    },
+    {
+      "en": "He might agree to do it",
+      "ru": "Он возможно согласится сделать это"
+    },
+    { "en": "I would say it now", "ru": "Я бы сказал это сейчас" },
+    {
+      "en": "They ought to take more decisive measures",
+      "ru": "Им следует принять более решительные меры"
+    },
+    {
+      "en": "I think he could help us now",
+      "ru": "Я думаю, он мог бы помочь нам сейчас"
+    },
+    {
+      "en": "I could spend all day on it",
+      "ru": "Я мог потратить весь день на это"
+    },
+    {
+      "en": "I'm sure that I'll be able to do it",
+      "ru": "Я уверен, что смогу это сделать"
+    },
+    {
+      "en": "I'am sure that I'll be able to learn English sooner or later",
+      "ru": "Я уверен, что смогу выучить английский рано или поздно"
+    },
+    {
+      "en": " won't be able to come so early",
+      "ru": "Я не смогу прийти так рано"
+    },
+    { "en": "We can't deny this fact", "ru": "Мы не можем отрицать этот факт" },
+    {
+      "en": "I think he should think about it more seriously",
+      "ru": "Я думаю, ему следует думать об этом более серьезно"
+    },
+    {
+      "en": "Do you think I should do it right now?",
+      "ru": "Ты думаешь, мне следует сделать это прямо сейчас?"
+    },
+    {
+      "en": "Can you speak English?",
+      "ru": "Ты умеешь говорить по-английски?"
+    },
+    { "en": "Can you help me?", "ru": "Ты можешь помочь мне?" },
+    { "en": "Could you help me?", "ru": "Не могли бы вы помочь мне?" },
+    {
+      "en": "Could you help me, please?",
+      "ru": "He могли бы вы мне помочь, пожалуйста?"
+    },
+    {
+      "en": "I have to get up so early because of my work",
+      "ru": "Я должен вставать так рано из-за своей работы"
+    }
+  ]
+}
