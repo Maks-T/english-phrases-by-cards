@@ -1,0 +1,44 @@
+{
+  "name": "Passive voice",
+  "phrases": [
+    { "en": "It's made in China", "ru": "Это делается в Китае" },
+    { "en": "It's made in Japan", "ru": "Это делается в Японии" },
+    { "en": "It's produced in Italy", "ru": "Это производится в Италии" },
+    { "en": "It's often discussed", "ru": "Это часто обсуждают" },
+    {
+      "en": "Everything is done very slowly",
+      "ru": "Все делается очень медленно"
+    },
+    { "en": "He's criticized very often", "ru": "Его критикуют очень часто" },
+    {
+      "en": "Too little is done to change the current situation",
+      "ru": "Слишком мало делается, чтобы изменить текущую ситуацию"
+    },
+    { "en": "It was produced in China", "ru": "Это было произведено в Китае" },
+    { "en": "They were seen there", "ru": "Их там видели" },
+    { "en": "I was praised", "ru": "Меня похвалили" },
+    { "en": "It was done by me", "ru": "Это было сделано мною" },
+    { "en": "It was done by him", "ru": "Это было сделано им" },
+    { "en": "It was done by them", "ru": "Это было сделано ими" },
+    { "en": "It'll be mentioned later", "ru": "Это будет упомянуто позже" },
+    { "en": "It'll be done a bit later", "ru": "Это будет сделано чуть позже" },
+    {
+      "en": "This problem will be solved soon",
+      "ru": "Эта проблема скоро будет решена"
+    },
+    {
+      "en": "This house was built last year",
+      "ru": "Этот дом был построен в прошлом году"
+    },
+    { "en": "This mistake wasn't noticed", "ru": "Эту ошибку не заметили" },
+    {
+      "en": "These mistakes were corrected",
+      "ru": "Эти ошибки были исправлены"
+    },
+    { "en": "It’s sold very cheaply", "ru": "Это продается очень дешево" },
+    {
+      "en": "These goods are sold very expensively",
+      "ru": "Этот товар продается очень дорого"
+    }
+  ]
+}

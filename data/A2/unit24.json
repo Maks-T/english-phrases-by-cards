@@ -1,0 +1,55 @@
+{
+  "name": "Degrees of comparison",
+  "phrases": [
+    { "en": "This house is bigger", "ru": "Этот дом больше" },
+    { "en": "That house is smaller", "ru": "Тот дом меньше" },
+    { "en": "This way is much longer", "ru": "Этот путь намного дольше" },
+    { "en": "This price is much lower", "ru": "Эта цена намного ниже" },
+    { "en": "It's cheaper", "ru": "Это дешевле" },
+    { "en": "It's much cheaper", "ru": "Это намного дешевле" },
+    { "en": "It's more expensive", "ru": "Это дороже" },
+    { "en": "It's much more expensive", "ru": "Это намного дороже" },
+    { "en": "It's much better", "ru": "Это гораздо лучше" },
+    { "en": "The situation can be worse", "ru": "Ситуация может быть хуже" },
+    { "en": "It's the best scenario", "ru": "Это лучший сценарий" },
+    { "en": "It's the worst scenario", "ru": "Это худший сценарий" },
+    { "en": "It's a more important thing", "ru": "Это более важная вещь" },
+    {
+      "en": "This thing is much more important",
+      "ru": "Эта вещь гораздо важнее"
+    },
+    {
+      "en": "This source of income is more reliable",
+      "ru": "Этот источник дохода более надежный"
+    },
+    {
+      "en": "It's a more reliable source of income",
+      "ru": "Это более надежный источник дохода"
+    },
+    { "en": "It's a more formal answer", "ru": "Это более формальный ответ" },
+    {
+      "en": "This place is much more beautiful",
+      "ru": "Это место намного красивее"
+    },
+    {
+      "en": "It's a much more beautiful place",
+      "ru": "Это гораздо более красивое место"
+    },
+    {
+      "en": "He's going to find a more well-paid job",
+      "ru": "Он собирается найти более хорошо оплачиваемую работу"
+    },
+    {
+      "en": "I'm going to show a much better result but I need to work really hard to do it",
+      "ru": "Я собираюсь показать намного более лучший результат, но мне нужно работать действительно усердно чтобы это сделать"
+    },
+    {
+      "en": "I'm  going to show much better results but I need to train much more intensively to do it",
+      "ru": "Я собираюсь показать намного более лучшие результаты, но мне нужно тренироваться намного интенсивнее чтобы сделать это"
+    },
+    {
+      "en": "I'm going to show much better results but I need to train much more intensively to do it",
+      "ru": "Я собираюсь показать намного более лучшие результаты, но мне нужно тренироваться намного интенсивнее чтобы сделать это"
+    }
+  ]
+}
