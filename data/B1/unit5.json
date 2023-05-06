@@ -1,0 +1,76 @@
+{
+  "name": "B1 lesson 5",
+  "phrases": [
+    { "en": "It has already been said", "ru": "Это уже было сказано" },
+    { "en": "It has just been done", "ru": "Это только что было сделано" },
+    {
+      "en": "As it has already been said, the situation isn't so simple",
+      "ru": "Как уже говорили, ситуация не такая простая"
+    },
+    {
+      "en": "As it has already been mentioned, not everything depends on us",
+      "ru": "Как уже упоминалось, не все зависит от нас"
+    },
+    {
+      "en": "Не said that the problem had been solved",
+      "ru": "Он сказал, что проблема была решена"
+    },
+    {
+      "en": "She said that all the mistakes had been corrected",
+      "ru": "Она сказала, что все ошибки были исправлены"
+    },
+    {
+      "en": "It was found out that the bag had been stolen",
+      "ru": "Выяснилось, что сумка была украдена"
+    },
+    {
+      "en": "It was said that he had been awarded",
+      "ru": "Сказали, что он был награжден"
+    },
+    {
+      "en": "These figures are being analyzed now",
+      "ru": "Эти цифры анализируются сейчас"
+    },
+    {
+      "en": "Everything is being controlled now",
+      "ru": "Все контролируется сейчас"
+    },
+    {
+      "en": "He's being criticized very sharply these days",
+      "ru": "Его критикуют очень резко в эти дни"
+    },
+    {
+      "en": "Not everything was understood immediately",
+      "ru": "He все было понято сразу"
+    },
+    {
+      "en": "Не said that not everything had been understood correctly",
+      "ru": "Он сказал, что не все было понято правильно"
+    },
+    { "en": "They'll be informed tomorrow", "ru": "Их проинформируют завтра" },
+    {
+      "en": "When I came there, very important things were being discussed",
+      "ru": "Когда я пришел туда, обсуждались очень важные вещи"
+    },
+    {
+      "en": "I was waiting while his work was being checked",
+      "ru": "Я ждал, пока проверяли его работу"
+    },
+    {
+      "en": "The next level will be reached quite soon",
+      "ru": "Следующий уровень будет достигнут довольно скоро"
+    },
+    {
+      "en": "I suppose that the next level will have been reached by the end of this month",
+      "ru": "Я предполагаю, что следующий уровень будет достигнут к концу этого месяца"
+    },
+    {
+      "en": "As it seems to me, this work will have been finished by tomorrow",
+      "ru": "Как мне кажется, эта работа будет закончена к завтрашнему дню"
+    },
+    {
+      "en": "As it seems to me, everything has just been done properly",
+      "ru": "Как мне кажется, все только что было сделано должным образом"
+    }
+  ]
+}
